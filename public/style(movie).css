@@ -1,0 +1,16 @@
+html{
+  *{
+    background-color: beige;
+  }
+  h1{
+    color: cornflowerblue;
+  }
+  body {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 5px solid #ddd; /* Example border style */
+    margin: 10px; /* Add some space between the border and the content */
+  }
+}

@@ -1,0 +1,20 @@
+html{
+    * {background:lightyellow;
+    font: 12px;
+    }
+    h1{
+        color:deeppink;
+    }
+    h5{
+        color:lightpink;
+    }
+    .new{
+        font-size: small;
+    }
+    body{
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+}

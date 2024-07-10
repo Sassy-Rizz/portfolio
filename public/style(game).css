@@ -1,0 +1,26 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 50px;
+  background-color: pink;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+h1{
+  color: deeppink;
+}
+
+#cat {
+  width: 200px;
+  cursor: pointer; /* Change cursor to pointer on hover */
+}
+
+#score, #timer {
+  margin: 10px;
+}
